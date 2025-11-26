@@ -16,8 +16,8 @@ O Bibliotech é uma mini biblioteca digital desenvolvida com o objetivo de facil
 
 🛠️ Tecnologias Utilizadas
 
-Python
+- Python
 
-Streamlit
+- Streamlit
 
 Essas ferramentas permitem a criação de interfaces rápidas e fáceis de usar, além de possibilitar o processamento dos dados de forma eficiente.
